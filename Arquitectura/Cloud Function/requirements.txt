@@ -1,0 +1,6 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-secret-manager
+nbformat
+nbconvert
+google-api-python-client
